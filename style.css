@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(5, 229, 236);
+    position:cover;
+}
+.quiz{
+    color:rgb(245, 72, 72);
+    font-size:50px;
+    text-align:center;
+    font-family:webdings;
+}
+h1.quiz:hover{
+    font-family: astro11 ;
+    color:black;
+}
